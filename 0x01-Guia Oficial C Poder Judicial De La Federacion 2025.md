@@ -15,7 +15,7 @@
 
 > [!note] Notas de Reforma (Panorama 2025)
 > - La **SCJN** se integra por **9 ministros** (antes 11) y su encargo se reduce a **12 años** (antes 15).
-> - Se eliminan las dos Salas; la Corte solo sesiona en **Pleno**.
+> - Se eliminan las dos Salas; la Corte solo sesiona en **Pleno**(La reunión de la totalidad de los Ministros).
 > - Los ministros, Magistrados y juzgadores serán electos por **voto popular** (se contempla una elección extraordinaria en 2025).
 > - Se crea el **Tribunal de Disciplina Judicial y Órgano de Administración judicial**.
 > - Las sentencias de amparo solo beneficiarán a quienes interpusieron el juicio (**sin generar efectos generales**).
@@ -25,14 +25,11 @@
 | :------------ | :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------- |
 | **Diputados** | 500   | 300 por mayoría relativa y 200 por representación proporcional.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Cada 3 años. |
 | **Senadores** | 128   | La Cámara de Senadores en México se renueva en su **totalidad** cada **seis años**.<br>Los aspectos clave son:<br>1. **Periodicidad:** Los Senadores son elegidos para un periodo de **seis años**.<br>2. **Renovación:** La Cámara se renueva completamente en cada elección federal en la que también se elige al Presidente de la República.<br>3. **Integración:** Se compone de **128 senadores**, electos mediante un sistema que combina los principios de:<br>    - **Mayoría Relativa** (dos senadores por cada estado y la Ciudad de México para la fórmula ganadora).<br>    - **Primera Minoría** (un senador para el partido que obtenga el segundo lugar en cada entidad).<br>    - **Representación Proporcional** (32 senadores electos a nivel nacional por listas plurinominales).<br>En resumen, la elección de Senadores se realiza cada seis años junto con la Presidencia. | Cada 6 años. |
-
-
 ## **B. Derechos Humanos (DDHH) y Garantías**
 
 - **Características de los DDHH:** Universales, Irrenunciables, Imprescriptibles, Inalienables.
 - **Principios de los DDHH:** Universalidad, Interdependencia e Indivisibilidad, Progresividad, y Pro persona (interpretar la norma favoreciendo la protección más amplia).
 - **Obligaciones de las Autoridades:** Promover, respetar, proteger y garantizar los DDHH. El Estado debe prevenir, investigar, sancionar y reparar las violaciones.
-
 # **II. JUICIO DE AMPARO**
 
 #### **1. Principios Rectores del Juicio de Amparo**
@@ -42,7 +39,6 @@
 - **Definitividad:** Se deben agotar los medios ordinarios de defensa antes de acudir al amparo, salvo excepciones.
 - **Estricto derecho:** El juzgador se limita a analizar los conceptos de violación expresados. **Excepción (Suplencia de la queja):** La autoridad suple la deficiencia en materia penal (a favor del reo), agraria, laboral (a favor del trabajador), a favor de menores o incapaces, o ante una violación manifiesta que deje sin defensa.
 - **Relatividad de la sentencia:** La sentencia solo protege a los individuos que solicitaron el amparo, sin hacer declaraciones generales (Art. 76).
-
 #### **2. Reglas Generales**
 
 - **Partes (Art. 5 Ley de Amparo):**
@@ -53,7 +49,6 @@
 - **Plazos (Art. 17 Ley de Amparo):**
     - **Regla general:** 15 días.
     - **Excepciones:** 30 días (normas autoaplicativas); 8 años (sentencia penal con prisión); 7 años (materia agraria); en cualquier tiempo (peligro de vida, ataques a la libertad personal fuera de procedimiento, deportación, etc.).
-
 #### **3. Causas de Improcedencia (Art. 61 Ley de Amparo)**
 
 El amparo es improcedente contra:
@@ -62,7 +57,6 @@ El amparo es improcedente contra:
 - Actos consentidos (expresa o tácitamente).
 - Actos consumados de modo irreparable.
 - Resoluciones que admitan un recurso ordinario por el cual puedan ser modificadas (Principio de Definitividad).
-
 #### **4. Causas de Sobreseimiento (**El sobreseimiento es una resolución judicial, generalmente dictada mediante un auto, que pone fin a un proceso judicial, de forma total o parcial, sin llegar a emitir una sentencia sobre el fondo del asunto. **Art. 63 Ley de Amparo)**
 
 Procede cuando:
@@ -70,18 +64,15 @@ Procede cuando:
 - El quejoso muere (si el acto solo afecta a su persona).
 - No existe el acto reclamado.
 - Sobrevenga una causal de improcedencia.
-
 #### **5. Amparo Indirecto**
 
 - **Competencia:** Juzgados de Distrito y Tribunales Colegiados de Apelación.
 - **Procedencia (Art. 107 Ley de Amparo):** Contra normas generales (por su sola vigencia o primer acto de aplicación); actos de imposible reparación (que afecten derechos sustantivos); actos fuera o después de concluido el juicio; omisiones del Ministerio Público.
-
 #### **6. Amparo Directo**
 
 - **Competencia:** Tribunales Colegiados de Circuito.
 - **Procedencia (Art. 170 Ley de Amparo):** Contra sentencias definitivas, laudos (resolución dictada por un árbitro o un tribunal arbitral en el ámbito del arbitraje o, históricamente, por las Juntas de Conciliación y Arbitraje en materia laboral, que pone fin a una controversia con efectos obligatorios y carácter definitivo, siendo el equivalente funcional de una sentencia judicial.) o resoluciones que pongan fin al juicio.
 - **Requisito:** Deben agotarse previamente los recursos ordinarios.
-
 #### **7. Medios de Impugnación (Art. 80 Ley de Amparo)**
 
 Solo se admiten: Revisión, Queja, Reclamación y el de Inconformidad (en cumplimiento de sentencia).  
@@ -92,7 +83,6 @@ Solo se admiten: Revisión, Queja, Reclamación y el de Inconformidad (en cumpli
 **Reclamación:** Medio de defensa que se utiliza para impugnar los **acuerdos de trámite** que son dictados por los presidentes de la Suprema Corte de Justicia de la Nación (SCJN) o de los Tribunales Colegiados de Circuito.
 
 **Inconformidad:** Recurso específico para impugnar la resolución del órgano de amparo que tiene por **cumplida la sentencia** de amparo, la que declara la imposibilidad de cumplirla, o la que declara sin materia o infundada la denuncia de repetición del acto reclamado.
-
 #### **8. Jurisprudencia (Art. 215 Ley de Amparo)**
 
 La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instrucciones creado por los jueces más importantes de un país; cuando la ley es confusa o hay diferentes opiniones sobre cómo aplicarla, estos jueces superiores establecen una **interpretación oficial** que se vuelve **obligatoria** para que todos los demás jueces resuelvan casos futuros de manera uniforme. se busca en un lugar oficial y público, que en México es el **Semanario Judicial de la Federación (SJF)**.) se establece por:
@@ -102,7 +92,6 @@ La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instruc
     - **Salas:** Una sola sentencia, con mayoría de **4 votos**.
 - **Reiteración (Tribunales Colegiados de Circuito):** 5 sentencias ininterrumpidas por otra en contrario y unánimes.
 - **Contradicción de Criterios:** La resuelven el Pleno de la SCJN, las Salas de la SCJN o los **Plenos Regionales** (estos últimos sustituyeron a los Plenos de Circuito).
-
 #### **9. Etapas del juicio de amparo**
 
 ###### **I. Etapa Inicial (Admisión)**
@@ -114,13 +103,11 @@ La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instruc
     - **Desecharla** (si es notoriamente improcedente).
 - **Incidente de Suspensión (Trámite Opcional):** Si se solicita la suspensión, se forma un expediente por separado para decidir si se detienen temporalmente los efectos del acto reclamado mientras dura el juicio.
     - _Se resuelve la Suspensión Provisional._
-
 ######  **II. Etapa de Substanciación (Instrucción)**
 
 - **Solicitud de Informes y Notificaciones:** El juez ordena notificar a todas las partes (autoridad responsable, tercero interesado, Ministerio Público) y solicita a la autoridad responsable que rinda su **Informe Justificado** (donde defiende la legalidad de su acto).
 - **Suspensión Definitiva:** Se celebra una audiencia incidental (si se solicitó) para decidir si se concede la **Suspensión Definitiva** (la protección cautelar se mantiene hasta la sentencia).
 - **Ofrecimiento y Admisión de Pruebas:** Las partes ofrecen las pruebas para demostrar sus dichos (documentos, periciales, etc.).
-
 ######  **III. Etapa Resolutoria**
 
 - **Audiencia Constitucional (Punto Central del Juicio):** Es el acto procesal donde:
@@ -131,7 +118,6 @@ La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instruc
     - **Sobreseer:** Termina el juicio sin resolver el fondo (por una causa legal, como el desistimiento o la extinción del acto).
     - **Negar el Amparo:** Declara que el acto de la autoridad es legal.
     - **Conceder el Amparo:** Declara que el acto de la autoridad violó derechos humanos y ordena su restitución al estado anterior.
-
 ######  **IV. Etapa de Impugnación y Ejecución**
 
 - **Recursos:** La sentencia puede ser impugnada por alguna de las partes mediante el **Recurso de Revisión**.
@@ -150,7 +136,6 @@ La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instruc
 | Sentencia                                             | Generalmente en la Audiencia Constitucional (o dentro de un plazo breve si se declara "visto").                     | En la práctica, suele demorarse varias semanas o meses debido a la complejidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Recurso de Revisión                                   | 10 días hábiles (para impugnar la sentencia).                                                                       | Plazo fijo para interponer el recurso ante el órgano que dictó la sentencia.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Cumplimiento de Sentencia                             | Máximo 3 días (a la autoridad responsable para cumplir la ejecutoria).                                              | Plazo inicial después de que la sentencia queda firme, prorrogable a criterio del juez.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
 # **III. DERECHO CIVIL (CÓDIGO CIVIL FEDERAL)**
 
 ## **1. Hecho y Acto Jurídico**
@@ -245,7 +230,6 @@ En el procedimiento penal solo se admiten los recursos de **Revocación y Apela
     - Las que pongan término al procedimiento.
     - La sentencia definitiva en procedimiento abreviado.
     - Las que excluyan medios de prueba.
-
 # **V. DERECHO ADMINISTRATIVO (LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO)**
 
 ## **1. El Acto Administrativo: Elementos y Requisitos (Art. 3 LFPA)**
