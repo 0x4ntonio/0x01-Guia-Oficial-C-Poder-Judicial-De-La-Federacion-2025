@@ -52,12 +52,16 @@
 #### **3. Causas de Improcedencia (Art. 61 Ley de Amparo)**
 
 El amparo es improcedente contra:
-- Reformas a la Constitución.
-- Actos de la SCJN o del Tribunal Electoral.
-- Actos consentidos (expresa o tácitamente).
-- Actos consumados de modo irreparable.
-- Resoluciones que admitan un recurso ordinario por el cual puedan ser modificadas (Principio de Definitividad).
-#### **4. Causas de Sobreseimiento (**El sobreseimiento es una resolución judicial, generalmente dictada mediante un auto, que pone fin a un proceso judicial, de forma total o parcial, sin llegar a emitir una sentencia sobre el fondo del asunto. **Art. 63 Ley de Amparo)**
+- Reformas a la Constitución.  **Ejemplo:** Un ciudadano promueve un amparo contra un decreto que reforma el **Artículo 107 Constitucional** (el que regula el propio juicio de amparo). El amparo se desecharía por ser la reforma un acto que, por su naturaleza, no viola la Constitución, sino que la integra o modifica.
+
+- Actos de la SCJN o del Tribunal Electoral. - **Actos de la SCJN:** Una de las partes de una **Controversia Constitucional** o de una **Acción de Inconstitucionalidad** intenta ampararse contra la sentencia definitiva emitida por el Pleno de la Suprema Corte de Justicia de la Nación. Es improcedente, ya que la SCJN es el máximo intérprete constitucional. **Actos del Tribunal Electoral:** Un partido político promueve un amparo contra la **resolución definitiva** emitida por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) en un juicio de revisión constitucional electoral. Es improcedente, pues el TEPJF es el órgano especializado y de última instancia en la materia.
+
+- Actos consentidos (expresa o tácitamente).  **Consentimiento Expreso:** Una persona es notificada de una multa de tránsito y, en lugar de impugnarla, **presenta un escrito ante la autoridad aceptando la sanción** y solicitando un plan de pagos. Si posteriormente intenta promover un Amparo, este será improcedente por haber consentido expresamente el acto. **Consentimiento Tácito:** Una ley o reglamento se publica y afecta a una persona, quien **deja pasar el plazo legal** (generalmente 30 o 15 días) para impugnarla sin presentar la demanda de Amparo. Al intentar promover el juicio fuera de ese plazo, se considera que el acto fue tácitamente consentido.
+
+- Actos consumados de modo irreparable. **Ejemplo:** Se reclama la **orden de demolición** de una construcción y, al momento de promover o resolver el Amparo, **la demolición ya se ha ejecutado completamente**. Aunque se concediera el amparo, no se podría devolver la construcción a su estado original, pues el daño es irreparable.
+
+- Resoluciones que admitan un recurso ordinario por el cual puedan ser modificadas (Principio de Definitividad). **Ejemplo:** En un juicio civil, el juez dicta un **auto que niega una prueba** ofrecida por una de las partes. Contra ese auto, el Código de Procedimientos Civiles prevé un **Recurso de Revocación**. Si la parte intenta promover Amparo Indirecto sin haber presentado primero el Recurso de Revocación ante el propio juez, el amparo será improcedente por no haberse agotado el principio de definitividad.
+#### 4. Causas de Sobreseimiento (El sobreseimiento es una resolución judicial, generalmente dictada mediante un auto, que pone fin a un proceso judicial, de forma total o parcial, sin llegar a emitir una sentencia sobre el fondo del asunto. Art. 63 Ley de Amparo)
 
 Procede cuando:
 - El quejoso desiste.
