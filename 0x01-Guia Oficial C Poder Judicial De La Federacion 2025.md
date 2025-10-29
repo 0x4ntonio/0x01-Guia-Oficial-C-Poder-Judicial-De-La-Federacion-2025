@@ -72,21 +72,26 @@ Procede cuando:
 
 - **Competencia:** Juzgados de Distrito y Tribunales Colegiados de Apelación.
 - **Procedencia (Art. 107 Ley de Amparo):** Contra normas generales (por su sola vigencia o primer acto de aplicación); actos de imposible reparación (que afecten derechos sustantivos); actos fuera o después de concluido el juicio; omisiones del Ministerio Público.
-#### **6. Amparo Directo**
+#### 6. Amparo Directo
 
 - **Competencia:** Tribunales Colegiados de Circuito.
-- **Procedencia (Art. 170 Ley de Amparo):** Contra sentencias definitivas, laudos (resolución dictada por un árbitro o un tribunal arbitral en el ámbito del arbitraje o, históricamente, por las Juntas de Conciliación y Arbitraje en materia laboral, que pone fin a una controversia con efectos obligatorios y carácter definitivo, siendo el equivalente funcional de una sentencia judicial.) o resoluciones que pongan fin al juicio.
+- **Procedencia (Art. 170 Ley de Amparo):** Contra sentencias definitivas, laudos **(resolución dictada por un árbitro o un tribunal arbitral en el ámbito del arbitraje o, históricamente, por las Juntas de Conciliación y Arbitraje en materia laboral, que pone fin a una controversia con efectos obligatorios y carácter definitivo, siendo el equivalente funcional de una sentencia judicial.)** o resoluciones que pongan fin al juicio.
 - **Requisito:** Deben agotarse previamente los recursos ordinarios.
 #### **7. Medios de Impugnación (Art. 80 Ley de Amparo)**
 
 Solo se admiten: Revisión, Queja, Reclamación y el de Inconformidad (en cumplimiento de sentencia).  
 **Revisión:** Recurso ordinario que se interpone principalmente contra las **sentencias definitivas** dictadas en el amparo indirecto o contra las resoluciones de los Tribunales Colegiados en amparo directo, con el fin de que un tribunal superior (Suprema Corte o Tribunal Colegiado) examine su constitucionalidad y legalidad.
 
-**Queja:** Procede contra **acuerdos o resoluciones de trámite** que, sin ser sentencias, causan un perjuicio a alguna de las partes, como el auto(una **resolución judicial motivada** que el juez o tribunal emite para resolver peticiones de las partes, incidentes (cuestiones secundarias) o trámites del proceso, sin pronunciarse sobre el fondo del litigio, reservando esta decisión final para la sentencia.) que desecha la demanda de amparo, las que conceden o niegan la suspensión provisional o definitiva, o cuando hay excesos o defectos en la ejecución de la suspensión.
+**Queja:** Procede contra **acuerdos o resoluciones de trámite** que, sin ser sentencias, causan un perjuicio a alguna de las partes, como el auto que desecha la demanda de amparo, las que conceden o niegan la suspensión provisional o definitiva, o cuando hay excesos o defectos en la ejecución de la suspensión.
 
 **Reclamación:** Medio de defensa que se utiliza para impugnar los **acuerdos de trámite** que son dictados por los presidentes de la Suprema Corte de Justicia de la Nación (SCJN) o de los Tribunales Colegiados de Circuito.
 
 **Inconformidad:** Recurso específico para impugnar la resolución del órgano de amparo que tiene por **cumplida la sentencia** de amparo, la que declara la imposibilidad de cumplirla, o la que declara sin materia o infundada la denuncia de repetición del acto reclamado.
+
+
+> [!note] **auto es una resolución judicial motivada que el juez o tribunal emite para resolver peticiones de las partes, incidentes (cuestiones secundarias) o trámites del proceso, sin pronunciarse sobre el fondo del litigio, reservando esta decisión final para la sentencia.**
+> **auto** es simplemente una **decisión escrita** que toma el juez **durante el transcurso del juicio** para decidir cómo debe avanzar el caso o para resolver alguna solicitud específica de las partes, pero **sin pronunciarse sobre el resultado final** del pleito (es decir, quién tiene la razón). Funciona como una "instrucción" del juez para mover el caso a la siguiente etapa (por ejemplo, ordenar un peritaje, fijar una audiencia, o admitir la demanda), diferenciándose de la **sentencia**, que es el fallo definitivo que pone fin al conflicto.
+
 #### **8. Jurisprudencia (Art. 215 Ley de Amparo)**
 
 La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instrucciones creado por los jueces más importantes de un país; cuando la ley es confusa o hay diferentes opiniones sobre cómo aplicarla, estos jueces superiores establecen una **interpretación oficial** que se vuelve **obligatoria** para que todos los demás jueces resuelvan casos futuros de manera uniforme. se busca en un lugar oficial y público, que en México es el **Semanario Judicial de la Federación (SJF)**.) se establece por:
@@ -116,7 +121,7 @@ La jurisprudencia (La **Jurisprudencia** es esencialmente un manual de instruc
 
 - **Audiencia Constitucional (Punto Central del Juicio):** Es el acto procesal donde:
     - Se **desahogan** las pruebas.
-    - Las partes formulan sus **alegatos** finales.
+    - Las partes formulan sus **alegatos** finales.(**Los alegatos son las argumentaciones finales escritas u orales que las partes presentan al tribunal, una vez concluida la etapa probatoria del juicio; en ellos, cada parte resume los hechos, valora las pruebas que se practicaron a su favor y expone los fundamentos legales por los cuales considera que el juez debe dictar una sentencia que favorezca sus pretensiones.**)
     - El juez declara el asunto **visto**.
 - **Sentencia:** El juez emite su resolución, que puede:
     - **Sobreseer:** Termina el juicio sin resolver el fondo (por una causa legal, como el desistimiento o la extinción del acto).
